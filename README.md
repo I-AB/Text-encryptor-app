@@ -1,19 +1,23 @@
 # Text Encryptor
-This is a simple text encryption and decryption application built in Python using the Tkinter library. It provides options to encrypt and decrypt text using various algorithms such as AES, DES, and RSA. The application was developed as part of a Cybersecurity internship at Pinnacle Labs.
+This is a simple text encryption and decryption application built in Python using the Tkinter library. It provides options to encrypt and decrypt text using various algorithms such as AES, DES, and RSA.
 
 ## Features
-Encrypt and decrypt text using AES, DES, or RSA algorithms.
-Generate encryption and decryption keys automatically.
-Copy keys and ciphertext to the clipboard for convenience.
-Simple and intuitive graphical user interface using Tkinter.
-Error handling for invalid input formats and decryption failures. 
+Encrypt and decrypt text using AES, DES, or RSA algorithms
+
+Generate encryption and decryption keys automatically
+
+Copy keys and ciphertext to the clipboard
+
+Simple and intuitive graphical user interface using Tkinter
+
+Error handling for invalid input formats and decryption failures
 
 ## Usage
 ### Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/Cpahi/Text-Encryptor.git
+git clone https://github.com/I-AB/Text-Encryptor.git
 Navigate to the project directory:
 
 bash
@@ -39,7 +43,7 @@ Python 3.x
 Tkinter
 cryptography
 Credits
-This application was developed by [Your Name] during a Cybersecurity internship at Pinnacle Labs.
+This application was developed by Isaac Bassey during a Cybersecurity internship at Pinnacle Labs.
 
 ## License
-This project is License free.
+This project is license-free.
